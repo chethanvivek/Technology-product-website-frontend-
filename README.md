@@ -1,3 +1,7 @@
+Student Details:
+name : Chethan Vivek Sai Sundar Sukkireddi
+Niat Id: N26V01A0337
+Section: 5
 # PulseX Pro - Smartwatch Promotional Webpage
 
 A sleek, responsive, single-page promotional launch website for the fictional **PulseX Pro** smartwatch. Built using pure **HTML5** and **CSS3** (Flexbox & Media Queries) with zero JavaScript or external CSS frameworks.
